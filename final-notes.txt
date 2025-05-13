@@ -1,0 +1,35 @@
+SPAdes
+genome assembler for genomes of regular and single-cell projects
+(Galaxy Version 3.15.5+galaxy3)
+paired data sets  with default settings 
+
+ ABySS
+de novo sequence assembler
+(Galaxy Version 2.3.10+galaxy0)
+with default settings except k=96
+
+Quast
+Genome assembly Quality
+(Galaxy Version 5.3.0+galaxy0)
+with Spades-scaffolds and default settings except scaffolds yes and all reports for outputs
+
+Quast
+Genome assembly Quality
+(Galaxy Version 5.3.0+galaxy0)
+with AByss scaffolds and defaults settings ecept ssemblies are scaffolds
+
+ barrnap
+Locate ribosomal RNA's in a fasta file. (GFF output)
+(Galaxy Version 1.2.2)
+with default settings except rrna as fasta
+
+using barrnap sta results BLAST thorugh NCBI was ran to confirm V. cholera
+
+Prokka
+Prokaryotic genome annotation
+(Galaxy Version 1.14.6+galaxy1)
+
+ FastANI
+fast alignment-free computation of whole-genome Average Nucleotide Identity
+(Galaxy Version 1.3)
+
